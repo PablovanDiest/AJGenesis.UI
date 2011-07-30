@@ -1,0 +1,10 @@
+C:\Sources\Spikes\AJGenesis.UI\bin\Debug\AJGenesis.UI.exe.config
+C:\Sources\Spikes\AJGenesis.UI\bin\Debug\AJGenesis.UI.exe
+C:\Sources\Spikes\AJGenesis.UI\bin\Debug\AJGenesis.UI.pdb
+C:\Sources\Spikes\AJGenesis.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Sources\Spikes\AJGenesis.UI\obj\x86\Debug\AJGenesis.UI.Properties.Resources.resources
+C:\Sources\Spikes\AJGenesis.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Sources\Spikes\AJGenesis.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Sources\Spikes\AJGenesis.UI\obj\x86\Debug\AJGenesis.UI.exe
+C:\Sources\Spikes\AJGenesis.UI\obj\x86\Debug\AJGenesis.UI.pdb
+C:\Sources\Spikes\AJGenesis.UI\obj\x86\Debug\AJGenesis.UI.frmAJGenesisUI.resources
